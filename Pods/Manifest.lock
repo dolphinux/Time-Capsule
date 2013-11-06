@@ -1,8 +1,10 @@
 PODS:
   - JSONKit (1.6)
+  - TMCache (1.2.0)
 
 DEPENDENCIES:
   - JSONKit (from `https://gist.github.com/marcdown/5282955/raw/2a52cfd92f112f2a52669420c82c1bb1efd15d2a/JSONKit.podspec`)
+  - TMCache
 
 EXTERNAL SOURCES:
   JSONKit:
@@ -10,5 +12,6 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   JSONKit: 98c50800be324836e4443f6d22ff1324caffa608
+  TMCache: 4b05e1b124d9f7e8d449640e059cff4cda17ed27
 
 COCOAPODS: 0.27.1
