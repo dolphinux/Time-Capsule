@@ -8,12 +8,18 @@
 
 #import "TCAppDelegate.h"
 #import "TCHomeViewController.h"
+#import "TCGuideViewController.h"
+
+#define TC_IS_FIRST_LAUNCH @"TC_IS_FIRST_LAUNCH"
 
 @implementation TCAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    BOOL debug = YES;
     UIViewController *rootCtrl = [[TCHomeViewController alloc] init];
+
+
     UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:rootCtrl];
     
     [nav setNavigationBarHidden:YES];
@@ -21,7 +27,19 @@
     self.window.rootViewController = nav;
     [self.window makeKeyAndVisible];
     
-    // Override point for customization after application launch.
+
+    BOOL isFirstLaunch = [[NSUserDefaults standardUserDefaults] objectForKey:TC_IS_FIRST_LAUNCH];
+    if (!isFirstLaunch || debug) {
+        
+        UIViewController *guide = [[TCGuideViewController alloc] init];
+        
+        [rootCtrl presentViewController:guide animated:NO completion:nil];
+        
+        isFirstLaunch = YES;
+        [[NSUserDefaults standardUserDefaults] setObject:[NSNumber numberWithBool:YES] forKey:TC_IS_FIRST_LAUNCH];
+        [[NSUserDefaults standardUserDefaults] synchronize];
+    }
+    
     return YES;
 }
 							

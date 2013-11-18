@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		B5A223139A374D96BA60751C /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DD1FB92C88941D1A0300BAD /* libPods.a */; };
+		FD18E5B5183A1004005D2D41 /* TCGuideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5B4183A1004005D2D41 /* TCGuideViewController.m */; };
+		FD18E5B6183A1004005D2D41 /* TCGuideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5B4183A1004005D2D41 /* TCGuideViewController.m */; };
 		FD1FA2D9182A265E0047E8A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD1FA2D8182A265E0047E8A2 /* Foundation.framework */; };
 		FD1FA2DB182A265E0047E8A2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD1FA2DA182A265E0047E8A2 /* CoreGraphics.framework */; };
 		FD1FA2DD182A265E0047E8A2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD1FA2DC182A265E0047E8A2 /* UIKit.framework */; };
@@ -37,6 +39,8 @@
 /* Begin PBXFileReference section */
 		9DD1FB92C88941D1A0300BAD /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		C916C0797BEC48A895C835C6 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		FD18E5B3183A1004005D2D41 /* TCGuideViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCGuideViewController.h; sourceTree = "<group>"; };
+		FD18E5B4183A1004005D2D41 /* TCGuideViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCGuideViewController.m; sourceTree = "<group>"; };
 		FD1FA2D5182A265E0047E8A2 /* timecapsule.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = timecapsule.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD1FA2D8182A265E0047E8A2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FD1FA2DA182A265E0047E8A2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -82,6 +86,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FD18E5B2183A0FC6005D2D41 /* Guide */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5B3183A1004005D2D41 /* TCGuideViewController.h */,
+				FD18E5B4183A1004005D2D41 /* TCGuideViewController.m */,
+			);
+			name = Guide;
+			sourceTree = "<group>";
+		};
 		FD1FA2CC182A265D0047E8A2 = {
 			isa = PBXGroup;
 			children = (
@@ -119,6 +132,7 @@
 			children = (
 				FD1FA2E7182A265E0047E8A2 /* TCAppDelegate.h */,
 				FD1FA2E8182A265E0047E8A2 /* TCAppDelegate.m */,
+				FD18E5B2183A0FC6005D2D41 /* Guide */,
 				FDBBE087183A08710075FA31 /* Home */,
 				FD1FA2F3182A265E0047E8A2 /* Images.xcassets */,
 				FD1FA2DF182A265E0047E8A2 /* Supporting Files */,
@@ -298,6 +312,7 @@
 			files = (
 				FDBBE08E183A095E0075FA31 /* TCHomeViewController.m in Sources */,
 				FD1FA2E5182A265E0047E8A2 /* main.m in Sources */,
+				FD18E5B5183A1004005D2D41 /* TCGuideViewController.m in Sources */,
 				FD1FA2E9182A265E0047E8A2 /* TCAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -307,6 +322,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FDBBE08F183A095E0075FA31 /* TCHomeViewController.m in Sources */,
+				FD18E5B6183A1004005D2D41 /* TCGuideViewController.m in Sources */,
 				FD1FA307182A265E0047E8A2 /* timecapsuleTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

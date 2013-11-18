@@ -8,8 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
+
 @interface TCHomeViewController : UITabBarController
 
-//@property (nonatomic, strong) IFTTTAnimator *animator;
+
 
 @end

@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "IFTTTJazzHands.h"
 
 @interface TCGuideViewController : UIViewController
+
+
 
 @end
