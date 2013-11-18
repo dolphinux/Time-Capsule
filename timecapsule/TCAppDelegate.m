@@ -18,14 +18,9 @@
 {
     BOOL debug = YES;
     UIViewController *rootCtrl = [[TCLoginViewController alloc] init];
-
-
-    UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:rootCtrl];
-    
-    [nav setNavigationBarHidden:YES];
     
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    self.window.rootViewController = nav;
+    self.window.rootViewController = rootCtrl;
     [self.window makeKeyAndVisible];
     
 

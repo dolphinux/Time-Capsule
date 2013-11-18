@@ -27,7 +27,7 @@
     self = [super init];
     if (self) {
         
-
+        [self.navigationController setNavigationBarHidden:YES];
         
     }
     return self;
@@ -94,16 +94,14 @@
 -(void)clickLogin:(id)sender
 {
     TCHomeViewController *homeCtrl = [[TCHomeViewController alloc] init];
-    
-    [self.navigationController pushViewController:homeCtrl animated:YES];
+    [self presentViewController:homeCtrl animated:YES completion:nil];
 }
 
 -(void)clickRegister:(id)sender
 {
     TCRegisterViewController *registerCtrl = [[TCRegisterViewController alloc] init];
-
-    [self.navigationController setNavigationBarHidden:NO];
-    [self.navigationController pushViewController:registerCtrl animated:YES];}
+    [self presentViewController:registerCtrl animated:YES completion:nil];
+}
 
 - (void)didReceiveMemoryWarning
 {

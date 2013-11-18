@@ -18,7 +18,7 @@
 {
     self = [super init];
     if (self) {
-        // Custom initialization
+        [self.navigationController setNavigationBarHidden:NO];
     }
     return self;
 }
