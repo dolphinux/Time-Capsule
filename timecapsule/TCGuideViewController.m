@@ -66,8 +66,6 @@
     [self.animator addAnimation:frameAnimation];
     [_sv addSubview:box1];
     
-    
-    
     UIButton *btn = [[UIButton alloc] initWithFrame:CGRectMake(500,200, 100, 20)];
     [btn setTitle:@"开始体验" forState:UIControlStateNormal];
     [btn addTarget:self action:@selector(go2Home:) forControlEvents:UIControlEventTouchUpInside];

@@ -10,6 +10,24 @@
 		B5A223139A374D96BA60751C /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DD1FB92C88941D1A0300BAD /* libPods.a */; };
 		FD18E5B5183A1004005D2D41 /* TCGuideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5B4183A1004005D2D41 /* TCGuideViewController.m */; };
 		FD18E5B6183A1004005D2D41 /* TCGuideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5B4183A1004005D2D41 /* TCGuideViewController.m */; };
+		FD18E5BB183A51A6005D2D41 /* TCLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5BA183A51A6005D2D41 /* TCLoginViewController.m */; };
+		FD18E5BC183A51A6005D2D41 /* TCLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5BA183A51A6005D2D41 /* TCLoginViewController.m */; };
+		FD18E5BF183A51CA005D2D41 /* TCRegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5BE183A51CA005D2D41 /* TCRegisterViewController.m */; };
+		FD18E5C0183A51CA005D2D41 /* TCRegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5BE183A51CA005D2D41 /* TCRegisterViewController.m */; };
+		FD18E5C4183A5217005D2D41 /* TCCapsuleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5C3183A5217005D2D41 /* TCCapsuleViewController.m */; };
+		FD18E5C5183A5217005D2D41 /* TCCapsuleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5C3183A5217005D2D41 /* TCCapsuleViewController.m */; };
+		FD18E5CE183A54A6005D2D41 /* TCViewCapsuleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5CD183A54A6005D2D41 /* TCViewCapsuleViewController.m */; };
+		FD18E5CF183A54A6005D2D41 /* TCViewCapsuleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5CD183A54A6005D2D41 /* TCViewCapsuleViewController.m */; };
+		FD18E5D2183A54B7005D2D41 /* TCChooseFriendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5D1183A54B7005D2D41 /* TCChooseFriendViewController.m */; };
+		FD18E5D3183A54B7005D2D41 /* TCChooseFriendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5D1183A54B7005D2D41 /* TCChooseFriendViewController.m */; };
+		FD18E5D6183A54CC005D2D41 /* TCCapsuleMakerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5D5183A54CC005D2D41 /* TCCapsuleMakerViewController.m */; };
+		FD18E5D7183A54CC005D2D41 /* TCCapsuleMakerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5D5183A54CC005D2D41 /* TCCapsuleMakerViewController.m */; };
+		FD18E5DA183A54D7005D2D41 /* TCSettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5D9183A54D7005D2D41 /* TCSettingViewController.m */; };
+		FD18E5DB183A54D7005D2D41 /* TCSettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5D9183A54D7005D2D41 /* TCSettingViewController.m */; };
+		FD18E5DE183A54E3005D2D41 /* TCMyCapsuleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5DD183A54E3005D2D41 /* TCMyCapsuleViewController.m */; };
+		FD18E5DF183A54E3005D2D41 /* TCMyCapsuleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5DD183A54E3005D2D41 /* TCMyCapsuleViewController.m */; };
+		FD18E5E2183A54F9005D2D41 /* TCFriendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5E1183A54F9005D2D41 /* TCFriendViewController.m */; };
+		FD18E5E3183A54F9005D2D41 /* TCFriendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5E1183A54F9005D2D41 /* TCFriendViewController.m */; };
 		FD1FA2D9182A265E0047E8A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD1FA2D8182A265E0047E8A2 /* Foundation.framework */; };
 		FD1FA2DB182A265E0047E8A2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD1FA2DA182A265E0047E8A2 /* CoreGraphics.framework */; };
 		FD1FA2DD182A265E0047E8A2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD1FA2DC182A265E0047E8A2 /* UIKit.framework */; };
@@ -41,6 +59,24 @@
 		C916C0797BEC48A895C835C6 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		FD18E5B3183A1004005D2D41 /* TCGuideViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCGuideViewController.h; sourceTree = "<group>"; };
 		FD18E5B4183A1004005D2D41 /* TCGuideViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCGuideViewController.m; sourceTree = "<group>"; };
+		FD18E5B9183A51A6005D2D41 /* TCLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCLoginViewController.h; sourceTree = "<group>"; };
+		FD18E5BA183A51A6005D2D41 /* TCLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCLoginViewController.m; sourceTree = "<group>"; };
+		FD18E5BD183A51CA005D2D41 /* TCRegisterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCRegisterViewController.h; sourceTree = "<group>"; };
+		FD18E5BE183A51CA005D2D41 /* TCRegisterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCRegisterViewController.m; sourceTree = "<group>"; };
+		FD18E5C2183A5217005D2D41 /* TCCapsuleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCCapsuleViewController.h; sourceTree = "<group>"; };
+		FD18E5C3183A5217005D2D41 /* TCCapsuleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCCapsuleViewController.m; sourceTree = "<group>"; };
+		FD18E5CC183A54A6005D2D41 /* TCViewCapsuleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCViewCapsuleViewController.h; sourceTree = "<group>"; };
+		FD18E5CD183A54A6005D2D41 /* TCViewCapsuleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCViewCapsuleViewController.m; sourceTree = "<group>"; };
+		FD18E5D0183A54B7005D2D41 /* TCChooseFriendViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCChooseFriendViewController.h; sourceTree = "<group>"; };
+		FD18E5D1183A54B7005D2D41 /* TCChooseFriendViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCChooseFriendViewController.m; sourceTree = "<group>"; };
+		FD18E5D4183A54CC005D2D41 /* TCCapsuleMakerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCCapsuleMakerViewController.h; sourceTree = "<group>"; };
+		FD18E5D5183A54CC005D2D41 /* TCCapsuleMakerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCCapsuleMakerViewController.m; sourceTree = "<group>"; };
+		FD18E5D8183A54D7005D2D41 /* TCSettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCSettingViewController.h; sourceTree = "<group>"; };
+		FD18E5D9183A54D7005D2D41 /* TCSettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCSettingViewController.m; sourceTree = "<group>"; };
+		FD18E5DC183A54E3005D2D41 /* TCMyCapsuleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCMyCapsuleViewController.h; sourceTree = "<group>"; };
+		FD18E5DD183A54E3005D2D41 /* TCMyCapsuleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCMyCapsuleViewController.m; sourceTree = "<group>"; };
+		FD18E5E0183A54F9005D2D41 /* TCFriendViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCFriendViewController.h; sourceTree = "<group>"; };
+		FD18E5E1183A54F9005D2D41 /* TCFriendViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCFriendViewController.m; sourceTree = "<group>"; };
 		FD1FA2D5182A265E0047E8A2 /* timecapsule.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = timecapsule.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD1FA2D8182A265E0047E8A2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FD1FA2DA182A265E0047E8A2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -95,6 +131,87 @@
 			name = Guide;
 			sourceTree = "<group>";
 		};
+		FD18E5B7183A5166005D2D41 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5B9183A51A6005D2D41 /* TCLoginViewController.h */,
+				FD18E5BA183A51A6005D2D41 /* TCLoginViewController.m */,
+			);
+			name = Login;
+			sourceTree = "<group>";
+		};
+		FD18E5B8183A517F005D2D41 /* Register */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5BD183A51CA005D2D41 /* TCRegisterViewController.h */,
+				FD18E5BE183A51CA005D2D41 /* TCRegisterViewController.m */,
+			);
+			name = Register;
+			sourceTree = "<group>";
+		};
+		FD18E5C1183A51F3005D2D41 /* Capsule */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5C2183A5217005D2D41 /* TCCapsuleViewController.h */,
+				FD18E5C3183A5217005D2D41 /* TCCapsuleViewController.m */,
+			);
+			name = Capsule;
+			sourceTree = "<group>";
+		};
+		FD18E5C6183A5236005D2D41 /* Friend */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5E0183A54F9005D2D41 /* TCFriendViewController.h */,
+				FD18E5E1183A54F9005D2D41 /* TCFriendViewController.m */,
+			);
+			name = Friend;
+			sourceTree = "<group>";
+		};
+		FD18E5C7183A528F005D2D41 /* MyCapsule */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5DC183A54E3005D2D41 /* TCMyCapsuleViewController.h */,
+				FD18E5DD183A54E3005D2D41 /* TCMyCapsuleViewController.m */,
+			);
+			name = MyCapsule;
+			sourceTree = "<group>";
+		};
+		FD18E5C8183A52A5005D2D41 /* Setting */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5D8183A54D7005D2D41 /* TCSettingViewController.h */,
+				FD18E5D9183A54D7005D2D41 /* TCSettingViewController.m */,
+			);
+			name = Setting;
+			sourceTree = "<group>";
+		};
+		FD18E5C9183A52DA005D2D41 /* CapsuleMaker */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5D4183A54CC005D2D41 /* TCCapsuleMakerViewController.h */,
+				FD18E5D5183A54CC005D2D41 /* TCCapsuleMakerViewController.m */,
+			);
+			name = CapsuleMaker;
+			sourceTree = "<group>";
+		};
+		FD18E5CA183A5336005D2D41 /* ChooseFriend */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5D0183A54B7005D2D41 /* TCChooseFriendViewController.h */,
+				FD18E5D1183A54B7005D2D41 /* TCChooseFriendViewController.m */,
+			);
+			name = ChooseFriend;
+			sourceTree = "<group>";
+		};
+		FD18E5CB183A5343005D2D41 /* ViewCapsule */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5CC183A54A6005D2D41 /* TCViewCapsuleViewController.h */,
+				FD18E5CD183A54A6005D2D41 /* TCViewCapsuleViewController.m */,
+			);
+			name = ViewCapsule;
+			sourceTree = "<group>";
+		};
 		FD1FA2CC182A265D0047E8A2 = {
 			isa = PBXGroup;
 			children = (
@@ -130,10 +247,19 @@
 		FD1FA2DE182A265E0047E8A2 /* timecapsule */ = {
 			isa = PBXGroup;
 			children = (
+				FD18E5CB183A5343005D2D41 /* ViewCapsule */,
+				FD18E5CA183A5336005D2D41 /* ChooseFriend */,
+				FD18E5C9183A52DA005D2D41 /* CapsuleMaker */,
+				FD18E5C8183A52A5005D2D41 /* Setting */,
+				FD18E5C7183A528F005D2D41 /* MyCapsule */,
 				FD1FA2E7182A265E0047E8A2 /* TCAppDelegate.h */,
 				FD1FA2E8182A265E0047E8A2 /* TCAppDelegate.m */,
 				FD18E5B2183A0FC6005D2D41 /* Guide */,
+				FD18E5B7183A5166005D2D41 /* Login */,
 				FDBBE087183A08710075FA31 /* Home */,
+				FD18E5B8183A517F005D2D41 /* Register */,
+				FD18E5C6183A5236005D2D41 /* Friend */,
+				FD18E5C1183A51F3005D2D41 /* Capsule */,
 				FD1FA2F3182A265E0047E8A2 /* Images.xcassets */,
 				FD1FA2DF182A265E0047E8A2 /* Supporting Files */,
 			);
@@ -310,10 +436,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD18E5DA183A54D7005D2D41 /* TCSettingViewController.m in Sources */,
 				FDBBE08E183A095E0075FA31 /* TCHomeViewController.m in Sources */,
 				FD1FA2E5182A265E0047E8A2 /* main.m in Sources */,
+				FD18E5D6183A54CC005D2D41 /* TCCapsuleMakerViewController.m in Sources */,
+				FD18E5C4183A5217005D2D41 /* TCCapsuleViewController.m in Sources */,
+				FD18E5BF183A51CA005D2D41 /* TCRegisterViewController.m in Sources */,
+				FD18E5BB183A51A6005D2D41 /* TCLoginViewController.m in Sources */,
+				FD18E5DE183A54E3005D2D41 /* TCMyCapsuleViewController.m in Sources */,
 				FD18E5B5183A1004005D2D41 /* TCGuideViewController.m in Sources */,
+				FD18E5CE183A54A6005D2D41 /* TCViewCapsuleViewController.m in Sources */,
 				FD1FA2E9182A265E0047E8A2 /* TCAppDelegate.m in Sources */,
+				FD18E5E2183A54F9005D2D41 /* TCFriendViewController.m in Sources */,
+				FD18E5D2183A54B7005D2D41 /* TCChooseFriendViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -321,9 +456,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD18E5D3183A54B7005D2D41 /* TCChooseFriendViewController.m in Sources */,
+				FD18E5E3183A54F9005D2D41 /* TCFriendViewController.m in Sources */,
 				FDBBE08F183A095E0075FA31 /* TCHomeViewController.m in Sources */,
+				FD18E5DB183A54D7005D2D41 /* TCSettingViewController.m in Sources */,
+				FD18E5BC183A51A6005D2D41 /* TCLoginViewController.m in Sources */,
+				FD18E5C0183A51CA005D2D41 /* TCRegisterViewController.m in Sources */,
+				FD18E5D7183A54CC005D2D41 /* TCCapsuleMakerViewController.m in Sources */,
 				FD18E5B6183A1004005D2D41 /* TCGuideViewController.m in Sources */,
 				FD1FA307182A265E0047E8A2 /* timecapsuleTests.m in Sources */,
+				FD18E5DF183A54E3005D2D41 /* TCMyCapsuleViewController.m in Sources */,
+				FD18E5C5183A5217005D2D41 /* TCCapsuleViewController.m in Sources */,
+				FD18E5CF183A54A6005D2D41 /* TCViewCapsuleViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
