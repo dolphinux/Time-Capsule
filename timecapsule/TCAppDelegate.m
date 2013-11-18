@@ -7,11 +7,20 @@
 //
 
 #import "TCAppDelegate.h"
+#import "TCHomeViewController.h"
 
 @implementation TCAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    UIViewController *rootCtrl = [[TCHomeViewController alloc] init];
+    UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:rootCtrl];
+    
+    [nav setNavigationBarHidden:YES];
+    
+    self.window.rootViewController = nav;
+    [self.window makeKeyAndVisible];
+    
     // Override point for customization after application launch.
     return YES;
 }
