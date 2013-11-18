@@ -28,6 +28,16 @@
 		FD18E5DF183A54E3005D2D41 /* TCMyCapsuleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5DD183A54E3005D2D41 /* TCMyCapsuleViewController.m */; };
 		FD18E5E2183A54F9005D2D41 /* TCFriendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5E1183A54F9005D2D41 /* TCFriendViewController.m */; };
 		FD18E5E3183A54F9005D2D41 /* TCFriendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5E1183A54F9005D2D41 /* TCFriendViewController.m */; };
+		FD18E5EA183A5663005D2D41 /* TCUserNameView.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5E9183A5663005D2D41 /* TCUserNameView.m */; };
+		FD18E5EB183A5663005D2D41 /* TCUserNameView.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5E9183A5663005D2D41 /* TCUserNameView.m */; };
+		FD18E5EF183A5692005D2D41 /* TCPassWordView.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5EE183A5692005D2D41 /* TCPassWordView.m */; };
+		FD18E5F0183A5692005D2D41 /* TCPassWordView.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5EE183A5692005D2D41 /* TCPassWordView.m */; };
+		FD18E5F3183A56AB005D2D41 /* TCSignInButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5F2183A56AB005D2D41 /* TCSignInButton.m */; };
+		FD18E5F4183A56AB005D2D41 /* TCSignInButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5F2183A56AB005D2D41 /* TCSignInButton.m */; };
+		FD18E5F7183A56B7005D2D41 /* TCSignUpButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5F6183A56B7005D2D41 /* TCSignUpButton.m */; };
+		FD18E5F8183A56B7005D2D41 /* TCSignUpButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5F6183A56B7005D2D41 /* TCSignUpButton.m */; };
+		FD18E5FC183A58EE005D2D41 /* TCLoginTitleLable.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5FB183A58EE005D2D41 /* TCLoginTitleLable.m */; };
+		FD18E5FD183A58EE005D2D41 /* TCLoginTitleLable.m in Sources */ = {isa = PBXBuildFile; fileRef = FD18E5FB183A58EE005D2D41 /* TCLoginTitleLable.m */; };
 		FD1FA2D9182A265E0047E8A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD1FA2D8182A265E0047E8A2 /* Foundation.framework */; };
 		FD1FA2DB182A265E0047E8A2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD1FA2DA182A265E0047E8A2 /* CoreGraphics.framework */; };
 		FD1FA2DD182A265E0047E8A2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD1FA2DC182A265E0047E8A2 /* UIKit.framework */; };
@@ -77,6 +87,16 @@
 		FD18E5DD183A54E3005D2D41 /* TCMyCapsuleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCMyCapsuleViewController.m; sourceTree = "<group>"; };
 		FD18E5E0183A54F9005D2D41 /* TCFriendViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCFriendViewController.h; sourceTree = "<group>"; };
 		FD18E5E1183A54F9005D2D41 /* TCFriendViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCFriendViewController.m; sourceTree = "<group>"; };
+		FD18E5E8183A5663005D2D41 /* TCUserNameView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCUserNameView.h; sourceTree = "<group>"; };
+		FD18E5E9183A5663005D2D41 /* TCUserNameView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCUserNameView.m; sourceTree = "<group>"; };
+		FD18E5ED183A5692005D2D41 /* TCPassWordView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCPassWordView.h; sourceTree = "<group>"; };
+		FD18E5EE183A5692005D2D41 /* TCPassWordView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCPassWordView.m; sourceTree = "<group>"; };
+		FD18E5F1183A56AB005D2D41 /* TCSignInButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCSignInButton.h; sourceTree = "<group>"; };
+		FD18E5F2183A56AB005D2D41 /* TCSignInButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCSignInButton.m; sourceTree = "<group>"; };
+		FD18E5F5183A56B7005D2D41 /* TCSignUpButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCSignUpButton.h; sourceTree = "<group>"; };
+		FD18E5F6183A56B7005D2D41 /* TCSignUpButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCSignUpButton.m; sourceTree = "<group>"; };
+		FD18E5FA183A58EE005D2D41 /* TCLoginTitleLable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCLoginTitleLable.h; sourceTree = "<group>"; };
+		FD18E5FB183A58EE005D2D41 /* TCLoginTitleLable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCLoginTitleLable.m; sourceTree = "<group>"; };
 		FD1FA2D5182A265E0047E8A2 /* timecapsule.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = timecapsule.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD1FA2D8182A265E0047E8A2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FD1FA2DA182A265E0047E8A2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -134,6 +154,11 @@
 		FD18E5B7183A5166005D2D41 /* Login */ = {
 			isa = PBXGroup;
 			children = (
+				FD18E5F9183A58C2005D2D41 /* LoginTitle */,
+				FD18E5E7183A563A005D2D41 /* SignUp */,
+				FD18E5E6183A5628005D2D41 /* SignIn */,
+				FD18E5E5183A5615005D2D41 /* Password */,
+				FD18E5E4183A55F9005D2D41 /* UserName */,
 				FD18E5B9183A51A6005D2D41 /* TCLoginViewController.h */,
 				FD18E5BA183A51A6005D2D41 /* TCLoginViewController.m */,
 			);
@@ -212,6 +237,51 @@
 			name = ViewCapsule;
 			sourceTree = "<group>";
 		};
+		FD18E5E4183A55F9005D2D41 /* UserName */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5E8183A5663005D2D41 /* TCUserNameView.h */,
+				FD18E5E9183A5663005D2D41 /* TCUserNameView.m */,
+			);
+			name = UserName;
+			sourceTree = "<group>";
+		};
+		FD18E5E5183A5615005D2D41 /* Password */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5ED183A5692005D2D41 /* TCPassWordView.h */,
+				FD18E5EE183A5692005D2D41 /* TCPassWordView.m */,
+			);
+			name = Password;
+			sourceTree = "<group>";
+		};
+		FD18E5E6183A5628005D2D41 /* SignIn */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5F1183A56AB005D2D41 /* TCSignInButton.h */,
+				FD18E5F2183A56AB005D2D41 /* TCSignInButton.m */,
+			);
+			name = SignIn;
+			sourceTree = "<group>";
+		};
+		FD18E5E7183A563A005D2D41 /* SignUp */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5F5183A56B7005D2D41 /* TCSignUpButton.h */,
+				FD18E5F6183A56B7005D2D41 /* TCSignUpButton.m */,
+			);
+			name = SignUp;
+			sourceTree = "<group>";
+		};
+		FD18E5F9183A58C2005D2D41 /* LoginTitle */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5FA183A58EE005D2D41 /* TCLoginTitleLable.h */,
+				FD18E5FB183A58EE005D2D41 /* TCLoginTitleLable.m */,
+			);
+			name = LoginTitle;
+			sourceTree = "<group>";
+		};
 		FD1FA2CC182A265D0047E8A2 = {
 			isa = PBXGroup;
 			children = (
@@ -247,13 +317,13 @@
 		FD1FA2DE182A265E0047E8A2 /* timecapsule */ = {
 			isa = PBXGroup;
 			children = (
+				FD1FA2E7182A265E0047E8A2 /* TCAppDelegate.h */,
+				FD1FA2E8182A265E0047E8A2 /* TCAppDelegate.m */,
 				FD18E5CB183A5343005D2D41 /* ViewCapsule */,
 				FD18E5CA183A5336005D2D41 /* ChooseFriend */,
 				FD18E5C9183A52DA005D2D41 /* CapsuleMaker */,
 				FD18E5C8183A52A5005D2D41 /* Setting */,
 				FD18E5C7183A528F005D2D41 /* MyCapsule */,
-				FD1FA2E7182A265E0047E8A2 /* TCAppDelegate.h */,
-				FD1FA2E8182A265E0047E8A2 /* TCAppDelegate.m */,
 				FD18E5B2183A0FC6005D2D41 /* Guide */,
 				FD18E5B7183A5166005D2D41 /* Login */,
 				FDBBE087183A08710075FA31 /* Home */,
@@ -437,17 +507,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD18E5DA183A54D7005D2D41 /* TCSettingViewController.m in Sources */,
+				FD18E5EA183A5663005D2D41 /* TCUserNameView.m in Sources */,
 				FDBBE08E183A095E0075FA31 /* TCHomeViewController.m in Sources */,
 				FD1FA2E5182A265E0047E8A2 /* main.m in Sources */,
 				FD18E5D6183A54CC005D2D41 /* TCCapsuleMakerViewController.m in Sources */,
+				FD18E5EF183A5692005D2D41 /* TCPassWordView.m in Sources */,
+				FD18E5F3183A56AB005D2D41 /* TCSignInButton.m in Sources */,
 				FD18E5C4183A5217005D2D41 /* TCCapsuleViewController.m in Sources */,
 				FD18E5BF183A51CA005D2D41 /* TCRegisterViewController.m in Sources */,
 				FD18E5BB183A51A6005D2D41 /* TCLoginViewController.m in Sources */,
 				FD18E5DE183A54E3005D2D41 /* TCMyCapsuleViewController.m in Sources */,
 				FD18E5B5183A1004005D2D41 /* TCGuideViewController.m in Sources */,
+				FD18E5F7183A56B7005D2D41 /* TCSignUpButton.m in Sources */,
 				FD18E5CE183A54A6005D2D41 /* TCViewCapsuleViewController.m in Sources */,
 				FD1FA2E9182A265E0047E8A2 /* TCAppDelegate.m in Sources */,
 				FD18E5E2183A54F9005D2D41 /* TCFriendViewController.m in Sources */,
+				FD18E5FC183A58EE005D2D41 /* TCLoginTitleLable.m in Sources */,
 				FD18E5D2183A54B7005D2D41 /* TCChooseFriendViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -456,8 +531,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD18E5FD183A58EE005D2D41 /* TCLoginTitleLable.m in Sources */,
 				FD18E5D3183A54B7005D2D41 /* TCChooseFriendViewController.m in Sources */,
 				FD18E5E3183A54F9005D2D41 /* TCFriendViewController.m in Sources */,
+				FD18E5F8183A56B7005D2D41 /* TCSignUpButton.m in Sources */,
+				FD18E5F0183A5692005D2D41 /* TCPassWordView.m in Sources */,
 				FDBBE08F183A095E0075FA31 /* TCHomeViewController.m in Sources */,
 				FD18E5DB183A54D7005D2D41 /* TCSettingViewController.m in Sources */,
 				FD18E5BC183A51A6005D2D41 /* TCLoginViewController.m in Sources */,
@@ -465,6 +543,8 @@
 				FD18E5D7183A54CC005D2D41 /* TCCapsuleMakerViewController.m in Sources */,
 				FD18E5B6183A1004005D2D41 /* TCGuideViewController.m in Sources */,
 				FD1FA307182A265E0047E8A2 /* timecapsuleTests.m in Sources */,
+				FD18E5EB183A5663005D2D41 /* TCUserNameView.m in Sources */,
+				FD18E5F4183A56AB005D2D41 /* TCSignInButton.m in Sources */,
 				FD18E5DF183A54E3005D2D41 /* TCMyCapsuleViewController.m in Sources */,
 				FD18E5C5183A5217005D2D41 /* TCCapsuleViewController.m in Sources */,
 				FD18E5CF183A54A6005D2D41 /* TCViewCapsuleViewController.m in Sources */,
@@ -583,6 +663,7 @@
 				GCC_PREFIX_HEADER = "timecapsule/timecapsule-Prefix.pch";
 				INFOPLIST_FILE = "timecapsule/timecapsule-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -597,6 +678,7 @@
 				GCC_PREFIX_HEADER = "timecapsule/timecapsule-Prefix.pch";
 				INFOPLIST_FILE = "timecapsule/timecapsule-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

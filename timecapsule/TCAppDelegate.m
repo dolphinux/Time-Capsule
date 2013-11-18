@@ -7,7 +7,7 @@
 //
 
 #import "TCAppDelegate.h"
-#import "TCHomeViewController.h"
+#import "TCLoginViewController.h"
 #import "TCGuideViewController.h"
 
 #define TC_IS_FIRST_LAUNCH @"TC_IS_FIRST_LAUNCH"
@@ -17,19 +17,20 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     BOOL debug = YES;
-    UIViewController *rootCtrl = [[TCHomeViewController alloc] init];
+    UIViewController *rootCtrl = [[TCLoginViewController alloc] init];
 
 
     UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:rootCtrl];
     
     [nav setNavigationBarHidden:YES];
     
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     self.window.rootViewController = nav;
     [self.window makeKeyAndVisible];
     
 
-    BOOL isFirstLaunch = [[NSUserDefaults standardUserDefaults] objectForKey:TC_IS_FIRST_LAUNCH];
-    if (!isFirstLaunch || debug) {
+    BOOL isFirstLaunch = [[[NSUserDefaults standardUserDefaults] objectForKey:TC_IS_FIRST_LAUNCH] boolValue];
+    if (!isFirstLaunch) {
         
         UIViewController *guide = [[TCGuideViewController alloc] init];
         
