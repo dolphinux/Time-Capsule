@@ -50,6 +50,11 @@
 		FD1FA2FD182A265E0047E8A2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD1FA2DC182A265E0047E8A2 /* UIKit.framework */; };
 		FD1FA305182A265E0047E8A2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FD1FA303182A265E0047E8A2 /* InfoPlist.strings */; };
 		FD1FA307182A265E0047E8A2 /* timecapsuleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FD1FA306182A265E0047E8A2 /* timecapsuleTests.m */; };
+		FD654D47183B452500D16344 /* TCTelePhoneView.m in Sources */ = {isa = PBXBuildFile; fileRef = FD654D46183B452500D16344 /* TCTelePhoneView.m */; };
+		FD654D4B183B45C100D16344 /* TCConfirmButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FD654D4A183B45C100D16344 /* TCConfirmButton.m */; };
+		FD654D4C183B45C100D16344 /* TCConfirmButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FD654D4A183B45C100D16344 /* TCConfirmButton.m */; };
+		FD654D4F183B45D200D16344 /* TCCancelButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FD654D4E183B45D200D16344 /* TCCancelButton.m */; };
+		FD654D50183B45D200D16344 /* TCCancelButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FD654D4E183B45D200D16344 /* TCCancelButton.m */; };
 		FDBBE08E183A095E0075FA31 /* TCHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FDBBE08D183A095E0075FA31 /* TCHomeViewController.m */; };
 		FDBBE08F183A095E0075FA31 /* TCHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FDBBE08D183A095E0075FA31 /* TCHomeViewController.m */; };
 /* End PBXBuildFile section */
@@ -113,6 +118,12 @@
 		FD1FA302182A265E0047E8A2 /* timecapsuleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "timecapsuleTests-Info.plist"; sourceTree = "<group>"; };
 		FD1FA304182A265E0047E8A2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FD1FA306182A265E0047E8A2 /* timecapsuleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = timecapsuleTests.m; sourceTree = "<group>"; };
+		FD654D45183B452500D16344 /* TCTelePhoneView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCTelePhoneView.h; sourceTree = "<group>"; };
+		FD654D46183B452500D16344 /* TCTelePhoneView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCTelePhoneView.m; sourceTree = "<group>"; };
+		FD654D49183B45C100D16344 /* TCConfirmButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCConfirmButton.h; sourceTree = "<group>"; };
+		FD654D4A183B45C100D16344 /* TCConfirmButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCConfirmButton.m; sourceTree = "<group>"; };
+		FD654D4D183B45D200D16344 /* TCCancelButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCCancelButton.h; sourceTree = "<group>"; };
+		FD654D4E183B45D200D16344 /* TCCancelButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCCancelButton.m; sourceTree = "<group>"; };
 		FDBBE08C183A095E0075FA31 /* TCHomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCHomeViewController.h; sourceTree = "<group>"; };
 		FDBBE08D183A095E0075FA31 /* TCHomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCHomeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -154,11 +165,8 @@
 		FD18E5B7183A5166005D2D41 /* Login */ = {
 			isa = PBXGroup;
 			children = (
-				FD18E5F9183A58C2005D2D41 /* LoginTitle */,
 				FD18E5E7183A563A005D2D41 /* SignUp */,
 				FD18E5E6183A5628005D2D41 /* SignIn */,
-				FD18E5E5183A5615005D2D41 /* Password */,
-				FD18E5E4183A55F9005D2D41 /* UserName */,
 				FD18E5B9183A51A6005D2D41 /* TCLoginViewController.h */,
 				FD18E5BA183A51A6005D2D41 /* TCLoginViewController.m */,
 			);
@@ -319,6 +327,7 @@
 			children = (
 				FD1FA2E7182A265E0047E8A2 /* TCAppDelegate.h */,
 				FD1FA2E8182A265E0047E8A2 /* TCAppDelegate.m */,
+				FD654D48183B456000D16344 /* Component */,
 				FD18E5CB183A5343005D2D41 /* ViewCapsule */,
 				FD18E5CA183A5336005D2D41 /* ChooseFriend */,
 				FD18E5C9183A52DA005D2D41 /* CapsuleMaker */,
@@ -363,6 +372,46 @@
 				FD1FA303182A265E0047E8A2 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FD654D44183B44FC00D16344 /* Telephone */ = {
+			isa = PBXGroup;
+			children = (
+				FD654D45183B452500D16344 /* TCTelePhoneView.h */,
+				FD654D46183B452500D16344 /* TCTelePhoneView.m */,
+			);
+			name = Telephone;
+			sourceTree = "<group>";
+		};
+		FD654D48183B456000D16344 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				FD18E5F9183A58C2005D2D41 /* LoginTitle */,
+				FD654D44183B44FC00D16344 /* Telephone */,
+				FD18E5E5183A5615005D2D41 /* Password */,
+				FD654D52183B45F000D16344 /* Cancel */,
+				FD654D51183B45E500D16344 /* Confirm */,
+				FD18E5E4183A55F9005D2D41 /* UserName */,
+			);
+			name = Component;
+			sourceTree = "<group>";
+		};
+		FD654D51183B45E500D16344 /* Confirm */ = {
+			isa = PBXGroup;
+			children = (
+				FD654D49183B45C100D16344 /* TCConfirmButton.h */,
+				FD654D4A183B45C100D16344 /* TCConfirmButton.m */,
+			);
+			name = Confirm;
+			sourceTree = "<group>";
+		};
+		FD654D52183B45F000D16344 /* Cancel */ = {
+			isa = PBXGroup;
+			children = (
+				FD654D4D183B45D200D16344 /* TCCancelButton.h */,
+				FD654D4E183B45D200D16344 /* TCCancelButton.m */,
+			);
+			name = Cancel;
 			sourceTree = "<group>";
 		};
 		FDBBE087183A08710075FA31 /* Home */ = {
@@ -507,6 +556,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD18E5DA183A54D7005D2D41 /* TCSettingViewController.m in Sources */,
+				FD654D4B183B45C100D16344 /* TCConfirmButton.m in Sources */,
 				FD18E5EA183A5663005D2D41 /* TCUserNameView.m in Sources */,
 				FDBBE08E183A095E0075FA31 /* TCHomeViewController.m in Sources */,
 				FD1FA2E5182A265E0047E8A2 /* main.m in Sources */,
@@ -514,7 +564,9 @@
 				FD18E5EF183A5692005D2D41 /* TCPassWordView.m in Sources */,
 				FD18E5F3183A56AB005D2D41 /* TCSignInButton.m in Sources */,
 				FD18E5C4183A5217005D2D41 /* TCCapsuleViewController.m in Sources */,
+				FD654D47183B452500D16344 /* TCTelePhoneView.m in Sources */,
 				FD18E5BF183A51CA005D2D41 /* TCRegisterViewController.m in Sources */,
+				FD654D4F183B45D200D16344 /* TCCancelButton.m in Sources */,
 				FD18E5BB183A51A6005D2D41 /* TCLoginViewController.m in Sources */,
 				FD18E5DE183A54E3005D2D41 /* TCMyCapsuleViewController.m in Sources */,
 				FD18E5B5183A1004005D2D41 /* TCGuideViewController.m in Sources */,
@@ -532,6 +584,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD18E5FD183A58EE005D2D41 /* TCLoginTitleLable.m in Sources */,
+				FD654D50183B45D200D16344 /* TCCancelButton.m in Sources */,
 				FD18E5D3183A54B7005D2D41 /* TCChooseFriendViewController.m in Sources */,
 				FD18E5E3183A54F9005D2D41 /* TCFriendViewController.m in Sources */,
 				FD18E5F8183A56B7005D2D41 /* TCSignUpButton.m in Sources */,
@@ -546,6 +599,7 @@
 				FD18E5EB183A5663005D2D41 /* TCUserNameView.m in Sources */,
 				FD18E5F4183A56AB005D2D41 /* TCSignInButton.m in Sources */,
 				FD18E5DF183A54E3005D2D41 /* TCMyCapsuleViewController.m in Sources */,
+				FD654D4C183B45C100D16344 /* TCConfirmButton.m in Sources */,
 				FD18E5C5183A5217005D2D41 /* TCCapsuleViewController.m in Sources */,
 				FD18E5CF183A54A6005D2D41 /* TCViewCapsuleViewController.m in Sources */,
 			);
