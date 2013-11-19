@@ -16,7 +16,8 @@
     if (self) {
         self.placeholder = @"密码";
         self.secureTextEntry = YES;
-
+        self.returnKeyType = UIReturnKeyDone;
+        self.clearButtonMode = UITextFieldViewModeWhileEditing;
     }
     return self;
 }

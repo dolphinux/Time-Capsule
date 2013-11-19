@@ -97,8 +97,40 @@
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
-    
-
 }
 
+
+
+
+- (BOOL)textFieldShouldEndEditing:(UITextField *)textField{
+    return YES;
+}
+
+
+- (BOOL)textFieldShouldClear:(UITextField *)textField{
+    return YES;
+}
+
+-(BOOL)textFieldShouldReturn:(UITextField *)textField{
+    [textField resignFirstResponder];
+    return YES;
+}
+
+- (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event {
+    if (![_username isExclusiveTouch]) {
+        [_username resignFirstResponder];
+    }
+    
+    if (![_password isExclusiveTouch]) {
+        [_password resignFirstResponder];
+    }
+    
+    if (![_telephone isExclusiveTouch]) {
+        [_telephone resignFirstResponder];
+    }
+    
+    if (![_verifyPassword isExclusiveTouch]) {
+        [_verifyPassword resignFirstResponder];
+    }
+}
 @end

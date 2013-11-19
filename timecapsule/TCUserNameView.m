@@ -15,9 +15,13 @@
     self = [super initWithFrame:frame];
     if (self) {
         self.placeholder = @"用户名";
+        self.returnKeyType = UIReturnKeyDone;
+        self.clearButtonMode = UITextFieldViewModeWhileEditing;
     }
     return self;
 }
+
+
 
 /*
 // Only override drawRect: if you perform custom drawing.

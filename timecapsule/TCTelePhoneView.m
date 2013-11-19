@@ -15,6 +15,9 @@
     self = [super initWithFrame:frame];
     if (self) {
         self.placeholder = @"手机号码";
+        self.returnKeyType = UIReturnKeyDone;
+        self.clearButtonMode = UITextFieldViewModeWhileEditing;
+        self.keyboardType = UIKeyboardTypePhonePad;
     }
     return self;
 }
