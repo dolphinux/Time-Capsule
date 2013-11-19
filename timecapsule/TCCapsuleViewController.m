@@ -7,8 +7,9 @@
 //
 
 #import "TCCapsuleViewController.h"
+#import "MBProgressHUD.h"
 
-@interface TCCapsuleViewController ()
+@interface TCCapsuleViewController ()<UITableViewDelegate, UITableViewDataSource>
 
 @end
 
@@ -18,7 +19,7 @@
 {
     self = [super init];
     if (self) {
-        // Custom initialization
+
     }
     return self;
 }
@@ -26,8 +27,52 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view.
+    
+    [self requesetCapsule];
 }
+
+-(void)requesetCapsule
+{
+    [MBProgressHUD showHUDAddedTo:self.view animated:YES];
+    
+    self.tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
+    self.tableView.delegate = self;
+    self.tableView.dataSource = self;
+    
+    [self requestFinish];
+}
+
+-(void)requestFinish
+{
+    [MBProgressHUD hideHUDForView:self.view animated:YES];
+
+}
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
+{
+    return 1;
+}
+
+// Row display. Implementers should *always* try to reuse cells by setting each cell's reuseIdentifier and querying for available reusable cells with dequeueReusableCellWithIdentifier:
+// Cell gets various attributes set automatically based on table (separators) and data source (accessory views, editing controls)
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    NSString * cellid = NSStringFromClass([self class]);
+    UITableViewCell * cell = [tableView dequeueReusableCellWithIdentifier:cellid];
+    if (cell == nil)
+    {
+        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellid];
+        cell.autoresizingMask = UIViewAutoresizingFlexibleHeight | UIViewAutoresizingFlexibleWidth;
+        cell.textLabel.adjustsFontSizeToFitWidth = YES;
+        cell.selectionStyle = UITableViewCellSelectionStyleNone;
+    }
+    
+    cell.textLabel.text = @"hahah";
+    return cell;
+}
+
+
 
 - (void)didReceiveMemoryWarning
 {

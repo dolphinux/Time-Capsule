@@ -327,6 +327,7 @@
 			children = (
 				FD1FA2E7182A265E0047E8A2 /* TCAppDelegate.h */,
 				FD1FA2E8182A265E0047E8A2 /* TCAppDelegate.m */,
+				FD654D54183B69B700D16344 /* Catogery */,
 				FD654D48183B456000D16344 /* Component */,
 				FD18E5CB183A5343005D2D41 /* ViewCapsule */,
 				FD18E5CA183A5336005D2D41 /* ChooseFriend */,
@@ -412,6 +413,13 @@
 				FD654D4E183B45D200D16344 /* TCCancelButton.m */,
 			);
 			name = Cancel;
+			sourceTree = "<group>";
+		};
+		FD654D54183B69B700D16344 /* Catogery */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Catogery;
 			sourceTree = "<group>";
 		};
 		FDBBE087183A08710075FA31 /* Home */ = {
@@ -716,6 +724,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "timecapsule/timecapsule-Prefix.pch";
 				INFOPLIST_FILE = "timecapsule/timecapsule-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -731,6 +740,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "timecapsule/timecapsule-Prefix.pch";
 				INFOPLIST_FILE = "timecapsule/timecapsule-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
