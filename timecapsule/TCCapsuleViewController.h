@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TCCapsuleViewController : UIViewController
+@interface TCCapsuleViewController : UITableViewController
 
 @end

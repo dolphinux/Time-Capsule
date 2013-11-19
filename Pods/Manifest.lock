@@ -1,11 +1,13 @@
 PODS:
   - JazzHands (0.0.1)
   - JSONKit (1.6)
+  - MBProgressHUD (0.8)
   - TMCache (1.2.0)
 
 DEPENDENCIES:
   - JazzHands
   - JSONKit (from `https://gist.github.com/marcdown/5282955/raw/2a52cfd92f112f2a52669420c82c1bb1efd15d2a/JSONKit.podspec`)
+  - MBProgressHUD
   - TMCache
 
 EXTERNAL SOURCES:
@@ -15,6 +17,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   JazzHands: 429bb5619e9ba9dfdab1d9c272193755740921a0
   JSONKit: 98c50800be324836e4443f6d22ff1324caffa608
+  MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
   TMCache: 4b05e1b124d9f7e8d449640e059cff4cda17ed27
 
 COCOAPODS: 0.27.1
