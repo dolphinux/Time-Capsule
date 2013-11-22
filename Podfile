@@ -3,3 +3,5 @@ pod 'JSONKit', :podspec => 'https://gist.github.com/marcdown/5282955/raw/2a52cfd
 pod 'TMCache'
 pod 'JazzHands'
 pod 'MBProgressHUD'
+pod 'ShareKit'
+pod 'SSKeychain'

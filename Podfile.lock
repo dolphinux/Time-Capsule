@@ -1,13 +1,156 @@
 PODS:
+  - Dropbox-iOS-SDK (1.3.9)
+  - Evernote-SDK-iOS (1.3.1):
+    - SSKeychain (= 0.2.1)
+  - Facebook-iOS-SDK (3.10.0)
+  - Google-API-Client/Common (0.0.1):
+    - gtm-oauth2
+    - GTMHTTPFetcher
+    - SBJson
+  - Google-API-Client/Objects (0.0.1):
+    - gtm-oauth2
+    - GTMHTTPFetcher
+    - SBJson
+  - Google-API-Client/Services/Plus (0.0.1):
+    - gtm-oauth2
+    - GTMHTTPFetcher
+    - SBJson
+  - Google-API-Client/Services/YouTube (0.0.1):
+    - gtm-oauth2
+    - GTMHTTPFetcher
+    - SBJson
+  - Google-API-Client/Utilities (0.0.1):
+    - gtm-oauth2
+    - GTMHTTPFetcher
+    - SBJson
+  - gtm-logger (0.0.1)
+  - gtm-oauth2 (0.0.2):
+    - gtm-oauth2/Core
+    - GTMHTTPFetcher
+    - SBJson
+  - gtm-oauth2/Core (0.0.2):
+    - gtm-oauth2/Core/Mac
+    - gtm-oauth2/Core/Touch
+    - GTMHTTPFetcher
+    - SBJson
+  - gtm-oauth2/Core/Mac (0.0.2):
+    - GTMHTTPFetcher
+    - SBJson
+  - gtm-oauth2/Core/Touch (0.0.2):
+    - GTMHTTPFetcher
+    - SBJson
+  - GTMHTTPFetcher (0.0.1):
+    - SBJson
   - JazzHands (0.0.1)
   - JSONKit (1.6)
   - MBProgressHUD (0.8)
+  - objectiveflickr (2.0.2)
+  - OpenInChrome (0.0.1)
+  - PocketAPI (1.0.2)
+  - SBJson (3.2)
+  - ShareKit (2.4.6):
+    - ShareKit/Core
+    - ShareKit/Delicious
+    - ShareKit/Diigo
+    - ShareKit/Dropbox
+    - ShareKit/Evernote
+    - ShareKit/Facebook
+    - ShareKit/Flickr
+    - ShareKit/Foursquare
+    - ShareKit/GooglePlus
+    - ShareKit/Hatena
+    - ShareKit/Instagram
+    - ShareKit/Instapaper
+    - ShareKit/Kippt
+    - ShareKit/LinkedIn
+    - ShareKit/NoARC
+    - ShareKit/Pinboard
+    - ShareKit/Plurk
+    - ShareKit/Pocket
+    - ShareKit/Reachability
+    - ShareKit/Readability
+    - ShareKit/ReadItLater
+    - ShareKit/SinaWeibo
+    - ShareKit/Tumblr
+    - ShareKit/Twitter
+    - ShareKit/Vkontakte
+    - ShareKit/YouTube
+  - ShareKit/Core (2.4.6):
+    - ShareKit/NoARC
+    - ShareKit/Reachability
+    - SSKeychain (~> 0.2.1)
+    - SSToolkit (~> 1.0.4)
+  - ShareKit/Delicious (2.4.6):
+    - ShareKit/Core
+  - ShareKit/Diigo (2.4.6):
+    - ShareKit/Core
+  - ShareKit/Dropbox (2.4.6):
+    - Dropbox-iOS-SDK (~> 1.3)
+    - ShareKit/Core
+  - ShareKit/Evernote (2.4.6):
+    - Evernote-SDK-iOS (~> 1.3.0)
+    - ShareKit/Core
+  - ShareKit/Facebook (2.4.6):
+    - Facebook-iOS-SDK (~> 3.8)
+    - ShareKit/Core
+  - ShareKit/Flickr (2.4.6):
+    - objectiveflickr (~> 2.0)
+    - ShareKit/Core
+  - ShareKit/Foursquare (2.4.6):
+    - ShareKit/Core
+  - ShareKit/GooglePlus (2.4.6):
+    - Google-API-Client/Common
+    - Google-API-Client/Services/Plus
+    - gtm-logger
+    - OpenInChrome
+    - ShareKit/Core
+  - ShareKit/Hatena (2.4.6):
+    - ShareKit/Core
+  - ShareKit/Instagram (2.4.6):
+    - ShareKit/Core
+  - ShareKit/Instapaper (2.4.6):
+    - ShareKit/Core
+  - ShareKit/Kippt (2.4.6):
+    - ShareKit/Core
+  - ShareKit/LinkedIn (2.4.6):
+    - ShareKit/Core
+  - ShareKit/NoARC (2.4.6)
+  - ShareKit/Pinboard (2.4.6):
+    - ShareKit/Core
+  - ShareKit/Plurk (2.4.6):
+    - ShareKit/Core
+  - ShareKit/Pocket (2.4.6):
+    - PocketAPI (~> 1.0)
+    - ShareKit/Core
+  - ShareKit/Reachability (2.4.6)
+  - ShareKit/Readability (2.4.6):
+    - ShareKit/Core
+  - ShareKit/ReadItLater (2.4.6):
+    - ShareKit/Core
+  - ShareKit/SinaWeibo (2.4.6):
+    - ShareKit/Core
+  - ShareKit/Tumblr (2.4.6):
+    - ShareKit/Core
+  - ShareKit/Twitter (2.4.6):
+    - ShareKit/Core
+  - ShareKit/Vkontakte (2.4.6):
+    - ShareKit/Core
+  - ShareKit/YouTube (2.4.6):
+    - Google-API-Client/Common
+    - Google-API-Client/Objects
+    - Google-API-Client/Services/YouTube
+    - Google-API-Client/Utilities
+    - ShareKit/Core
+  - SSKeychain (0.2.1)
+  - SSToolkit (1.0.4)
   - TMCache (1.2.0)
 
 DEPENDENCIES:
   - JazzHands
   - JSONKit (from `https://gist.github.com/marcdown/5282955/raw/2a52cfd92f112f2a52669420c82c1bb1efd15d2a/JSONKit.podspec`)
   - MBProgressHUD
+  - ShareKit
+  - SSKeychain
   - TMCache
 
 EXTERNAL SOURCES:
@@ -15,9 +158,23 @@ EXTERNAL SOURCES:
     :podspec: https://gist.github.com/marcdown/5282955/raw/2a52cfd92f112f2a52669420c82c1bb1efd15d2a/JSONKit.podspec
 
 SPEC CHECKSUMS:
+  Dropbox-iOS-SDK: 1a8850056b1bd54bc023bd268e1e6f4d6ee9d7a5
+  Evernote-SDK-iOS: 9294970e3c28083d7e7aa3c2c882c0c93ef526e7
+  Facebook-iOS-SDK: ef402579aeb30cf0c4a6370fb0a927e3dc3059e5
+  Google-API-Client: a5aea65083895ad2fa8eeca4747478215c9ac934
+  gtm-logger: 9e974ebf169fe5533ab2d298258705fd2cb051eb
+  gtm-oauth2: 92e23fbb4ab77c4f441ffc95e2bbbf174ea589c1
+  GTMHTTPFetcher: b0af09f18ec87e7a5edeffcc8cb6449fdbf0e83f
   JazzHands: 429bb5619e9ba9dfdab1d9c272193755740921a0
   JSONKit: 98c50800be324836e4443f6d22ff1324caffa608
   MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
+  objectiveflickr: c98b7590cee96dbd4a2d2529f6910fea8e566164
+  OpenInChrome: 4990ae561b1c8e38caa6fc6c346f4565f6c37bfb
+  PocketAPI: 2ed51391e6ea7a48c707528f782f5a2cb0eab80e
+  SBJson: abc2bf2baef456d5dae213f9826fe2b6fdf19861
+  ShareKit: ba581dd29ef2bb26ef3c82739fd0c0581d07d062
+  SSKeychain: ffa1a79eb716d9ed1ca184fb0cf218087ca28486
+  SSToolkit: 689acaedac79c2079e492e528a55bcb5db9d98c4
   TMCache: 4b05e1b124d9f7e8d449640e059cff4cda17ed27
 
 COCOAPODS: 0.27.1

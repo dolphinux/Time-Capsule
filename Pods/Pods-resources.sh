@@ -41,6 +41,10 @@ install_resource()
       ;;
   esac
 }
+install_resource "Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle"
+install_resource "gtm-oauth2/Source/Touch/GTMOAuth2ViewTouch.xib"
+install_resource "objectiveflickr/BridgeSupport"
+install_resource "${BUILT_PRODUCTS_DIR}/ShareKit.bundle"
 
 rsync -avr --copy-links --no-relative --exclude '*/.svn/*' --files-from="$RESOURCES_TO_COPY" / "${CONFIGURATION_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}"
 if [[ "${ACTION}" == "install" ]]; then
@@ -53,3 +57,4 @@ then
   DEVICE=`if [ "${TARGETED_DEVICE_FAMILY}" -eq 1 ]; then echo "iphone"; else echo "ipad"; fi`
   find "${PWD}" -name "*.xcassets" -print0 | xargs -0 actool --output-format human-readable-text --notices --warnings --platform "${PLATFORM_NAME}" --minimum-deployment-target "${IPHONEOS_DEPLOYMENT_TARGET}" --target-device "${DEVICE}" --compress-pngs --compile "${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.${WRAPPER_EXTENSION}"
 fi
+install_resource 'SSToolkit/SSToolkitResources.bundle'

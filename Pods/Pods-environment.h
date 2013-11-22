@@ -6,6 +6,60 @@
 // project.
 
 
+// Dropbox-iOS-SDK
+#define COCOAPODS_POD_AVAILABLE_Dropbox_iOS_SDK
+#define COCOAPODS_VERSION_MAJOR_Dropbox_iOS_SDK 1
+#define COCOAPODS_VERSION_MINOR_Dropbox_iOS_SDK 3
+#define COCOAPODS_VERSION_PATCH_Dropbox_iOS_SDK 9
+
+// Evernote-SDK-iOS
+#define COCOAPODS_POD_AVAILABLE_Evernote_SDK_iOS
+#define COCOAPODS_VERSION_MAJOR_Evernote_SDK_iOS 1
+#define COCOAPODS_VERSION_MINOR_Evernote_SDK_iOS 3
+#define COCOAPODS_VERSION_PATCH_Evernote_SDK_iOS 1
+
+// Facebook-iOS-SDK
+#define COCOAPODS_POD_AVAILABLE_Facebook_iOS_SDK
+#define COCOAPODS_VERSION_MAJOR_Facebook_iOS_SDK 3
+#define COCOAPODS_VERSION_MINOR_Facebook_iOS_SDK 10
+#define COCOAPODS_VERSION_PATCH_Facebook_iOS_SDK 0
+
+// GTMHTTPFetcher
+#define COCOAPODS_POD_AVAILABLE_GTMHTTPFetcher
+#define COCOAPODS_VERSION_MAJOR_GTMHTTPFetcher 0
+#define COCOAPODS_VERSION_MINOR_GTMHTTPFetcher 0
+#define COCOAPODS_VERSION_PATCH_GTMHTTPFetcher 1
+
+// Google-API-Client/Common
+#define COCOAPODS_POD_AVAILABLE_Google_API_Client_Common
+#define COCOAPODS_VERSION_MAJOR_Google_API_Client_Common 0
+#define COCOAPODS_VERSION_MINOR_Google_API_Client_Common 0
+#define COCOAPODS_VERSION_PATCH_Google_API_Client_Common 1
+
+// Google-API-Client/Objects
+#define COCOAPODS_POD_AVAILABLE_Google_API_Client_Objects
+#define COCOAPODS_VERSION_MAJOR_Google_API_Client_Objects 0
+#define COCOAPODS_VERSION_MINOR_Google_API_Client_Objects 0
+#define COCOAPODS_VERSION_PATCH_Google_API_Client_Objects 1
+
+// Google-API-Client/Services/Plus
+#define COCOAPODS_POD_AVAILABLE_Google_API_Client_Services_Plus
+#define COCOAPODS_VERSION_MAJOR_Google_API_Client_Services_Plus 0
+#define COCOAPODS_VERSION_MINOR_Google_API_Client_Services_Plus 0
+#define COCOAPODS_VERSION_PATCH_Google_API_Client_Services_Plus 1
+
+// Google-API-Client/Services/YouTube
+#define COCOAPODS_POD_AVAILABLE_Google_API_Client_Services_YouTube
+#define COCOAPODS_VERSION_MAJOR_Google_API_Client_Services_YouTube 0
+#define COCOAPODS_VERSION_MINOR_Google_API_Client_Services_YouTube 0
+#define COCOAPODS_VERSION_PATCH_Google_API_Client_Services_YouTube 1
+
+// Google-API-Client/Utilities
+#define COCOAPODS_POD_AVAILABLE_Google_API_Client_Utilities
+#define COCOAPODS_VERSION_MAJOR_Google_API_Client_Utilities 0
+#define COCOAPODS_VERSION_MINOR_Google_API_Client_Utilities 0
+#define COCOAPODS_VERSION_PATCH_Google_API_Client_Utilities 1
+
 // JSONKit
 #define COCOAPODS_POD_AVAILABLE_JSONKit
 #define COCOAPODS_VERSION_MAJOR_JSONKit 1
@@ -24,9 +78,237 @@
 #define COCOAPODS_VERSION_MINOR_MBProgressHUD 8
 #define COCOAPODS_VERSION_PATCH_MBProgressHUD 0
 
+// OpenInChrome
+#define COCOAPODS_POD_AVAILABLE_OpenInChrome
+#define COCOAPODS_VERSION_MAJOR_OpenInChrome 0
+#define COCOAPODS_VERSION_MINOR_OpenInChrome 0
+#define COCOAPODS_VERSION_PATCH_OpenInChrome 1
+
+// PocketAPI
+#define COCOAPODS_POD_AVAILABLE_PocketAPI
+#define COCOAPODS_VERSION_MAJOR_PocketAPI 1
+#define COCOAPODS_VERSION_MINOR_PocketAPI 0
+#define COCOAPODS_VERSION_PATCH_PocketAPI 2
+
+// SBJson
+#define COCOAPODS_POD_AVAILABLE_SBJson
+#define COCOAPODS_VERSION_MAJOR_SBJson 3
+#define COCOAPODS_VERSION_MINOR_SBJson 2
+#define COCOAPODS_VERSION_PATCH_SBJson 0
+
+// SSKeychain
+#define COCOAPODS_POD_AVAILABLE_SSKeychain
+#define COCOAPODS_VERSION_MAJOR_SSKeychain 0
+#define COCOAPODS_VERSION_MINOR_SSKeychain 2
+#define COCOAPODS_VERSION_PATCH_SSKeychain 1
+
+// SSToolkit
+#define COCOAPODS_POD_AVAILABLE_SSToolkit
+#define COCOAPODS_VERSION_MAJOR_SSToolkit 1
+#define COCOAPODS_VERSION_MINOR_SSToolkit 0
+#define COCOAPODS_VERSION_PATCH_SSToolkit 4
+
+// ShareKit
+#define COCOAPODS_POD_AVAILABLE_ShareKit
+#define COCOAPODS_VERSION_MAJOR_ShareKit 2
+#define COCOAPODS_VERSION_MINOR_ShareKit 4
+#define COCOAPODS_VERSION_PATCH_ShareKit 6
+
+// ShareKit/Core
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Core
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Core 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Core 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Core 6
+
+// ShareKit/Delicious
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Delicious
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Delicious 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Delicious 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Delicious 6
+
+// ShareKit/Diigo
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Diigo
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Diigo 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Diigo 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Diigo 6
+
+// ShareKit/Dropbox
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Dropbox
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Dropbox 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Dropbox 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Dropbox 6
+
+// ShareKit/Evernote
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Evernote
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Evernote 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Evernote 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Evernote 6
+
+// ShareKit/Facebook
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Facebook
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Facebook 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Facebook 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Facebook 6
+
+// ShareKit/Flickr
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Flickr
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Flickr 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Flickr 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Flickr 6
+
+// ShareKit/Foursquare
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Foursquare
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Foursquare 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Foursquare 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Foursquare 6
+
+// ShareKit/GooglePlus
+#define COCOAPODS_POD_AVAILABLE_ShareKit_GooglePlus
+#define COCOAPODS_VERSION_MAJOR_ShareKit_GooglePlus 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_GooglePlus 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_GooglePlus 6
+
+// ShareKit/Hatena
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Hatena
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Hatena 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Hatena 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Hatena 6
+
+// ShareKit/Instagram
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Instagram
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Instagram 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Instagram 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Instagram 6
+
+// ShareKit/Instapaper
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Instapaper
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Instapaper 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Instapaper 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Instapaper 6
+
+// ShareKit/Kippt
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Kippt
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Kippt 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Kippt 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Kippt 6
+
+// ShareKit/LinkedIn
+#define COCOAPODS_POD_AVAILABLE_ShareKit_LinkedIn
+#define COCOAPODS_VERSION_MAJOR_ShareKit_LinkedIn 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_LinkedIn 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_LinkedIn 6
+
+// ShareKit/NoARC
+#define COCOAPODS_POD_AVAILABLE_ShareKit_NoARC
+#define COCOAPODS_VERSION_MAJOR_ShareKit_NoARC 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_NoARC 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_NoARC 6
+
+// ShareKit/Pinboard
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Pinboard
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Pinboard 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Pinboard 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Pinboard 6
+
+// ShareKit/Plurk
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Plurk
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Plurk 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Plurk 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Plurk 6
+
+// ShareKit/Pocket
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Pocket
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Pocket 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Pocket 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Pocket 6
+
+// ShareKit/Reachability
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Reachability
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Reachability 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Reachability 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Reachability 6
+
+// ShareKit/ReadItLater
+#define COCOAPODS_POD_AVAILABLE_ShareKit_ReadItLater
+#define COCOAPODS_VERSION_MAJOR_ShareKit_ReadItLater 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_ReadItLater 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_ReadItLater 6
+
+// ShareKit/Readability
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Readability
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Readability 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Readability 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Readability 6
+
+// ShareKit/SinaWeibo
+#define COCOAPODS_POD_AVAILABLE_ShareKit_SinaWeibo
+#define COCOAPODS_VERSION_MAJOR_ShareKit_SinaWeibo 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_SinaWeibo 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_SinaWeibo 6
+
+// ShareKit/Tumblr
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Tumblr
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Tumblr 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Tumblr 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Tumblr 6
+
+// ShareKit/Twitter
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Twitter
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Twitter 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Twitter 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Twitter 6
+
+// ShareKit/Vkontakte
+#define COCOAPODS_POD_AVAILABLE_ShareKit_Vkontakte
+#define COCOAPODS_VERSION_MAJOR_ShareKit_Vkontakte 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_Vkontakte 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_Vkontakte 6
+
+// ShareKit/YouTube
+#define COCOAPODS_POD_AVAILABLE_ShareKit_YouTube
+#define COCOAPODS_VERSION_MAJOR_ShareKit_YouTube 2
+#define COCOAPODS_VERSION_MINOR_ShareKit_YouTube 4
+#define COCOAPODS_VERSION_PATCH_ShareKit_YouTube 6
+
 // TMCache
 #define COCOAPODS_POD_AVAILABLE_TMCache
 #define COCOAPODS_VERSION_MAJOR_TMCache 1
 #define COCOAPODS_VERSION_MINOR_TMCache 2
 #define COCOAPODS_VERSION_PATCH_TMCache 0
+
+// gtm-logger
+#define COCOAPODS_POD_AVAILABLE_gtm_logger
+#define COCOAPODS_VERSION_MAJOR_gtm_logger 0
+#define COCOAPODS_VERSION_MINOR_gtm_logger 0
+#define COCOAPODS_VERSION_PATCH_gtm_logger 1
+
+// gtm-oauth2
+#define COCOAPODS_POD_AVAILABLE_gtm_oauth2
+#define COCOAPODS_VERSION_MAJOR_gtm_oauth2 0
+#define COCOAPODS_VERSION_MINOR_gtm_oauth2 0
+#define COCOAPODS_VERSION_PATCH_gtm_oauth2 2
+
+// gtm-oauth2/Core
+#define COCOAPODS_POD_AVAILABLE_gtm_oauth2_Core
+#define COCOAPODS_VERSION_MAJOR_gtm_oauth2_Core 0
+#define COCOAPODS_VERSION_MINOR_gtm_oauth2_Core 0
+#define COCOAPODS_VERSION_PATCH_gtm_oauth2_Core 2
+
+// gtm-oauth2/Core/Mac
+#define COCOAPODS_POD_AVAILABLE_gtm_oauth2_Core_Mac
+#define COCOAPODS_VERSION_MAJOR_gtm_oauth2_Core_Mac 0
+#define COCOAPODS_VERSION_MINOR_gtm_oauth2_Core_Mac 0
+#define COCOAPODS_VERSION_PATCH_gtm_oauth2_Core_Mac 2
+
+// gtm-oauth2/Core/Touch
+#define COCOAPODS_POD_AVAILABLE_gtm_oauth2_Core_Touch
+#define COCOAPODS_VERSION_MAJOR_gtm_oauth2_Core_Touch 0
+#define COCOAPODS_VERSION_MINOR_gtm_oauth2_Core_Touch 0
+#define COCOAPODS_VERSION_PATCH_gtm_oauth2_Core_Touch 2
+
+// objectiveflickr
+#define COCOAPODS_POD_AVAILABLE_objectiveflickr
+#define COCOAPODS_VERSION_MAJOR_objectiveflickr 2
+#define COCOAPODS_VERSION_MINOR_objectiveflickr 0
+#define COCOAPODS_VERSION_PATCH_objectiveflickr 2
 
