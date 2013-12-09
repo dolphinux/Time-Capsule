@@ -1,4 +1,18 @@
 PODS:
+  - BlocksKit (2.0.0):
+    - BlocksKit/All
+  - BlocksKit/All (2.0.0):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.0.0)
+  - BlocksKit/DynamicDelegate (2.0.0):
+    - libffi
+  - BlocksKit/MessageUI (2.0.0):
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.0.0):
+    - BlocksKit/DynamicDelegate
   - Dropbox-iOS-SDK (1.3.9)
   - Evernote-SDK-iOS (1.3.1):
     - SSKeychain (= 0.2.1)
@@ -43,6 +57,7 @@ PODS:
     - SBJson
   - JazzHands (0.0.1)
   - JSONKit (1.6)
+  - libffi (3.0.13)
   - MBProgressHUD (0.8)
   - objectiveflickr (2.0.2)
   - OpenInChrome (0.0.1)
@@ -146,6 +161,7 @@ PODS:
   - TMCache (1.2.0)
 
 DEPENDENCIES:
+  - BlocksKit
   - JazzHands
   - JSONKit (from `https://gist.github.com/marcdown/5282955/raw/2a52cfd92f112f2a52669420c82c1bb1efd15d2a/JSONKit.podspec`)
   - MBProgressHUD
@@ -158,6 +174,7 @@ EXTERNAL SOURCES:
     :podspec: https://gist.github.com/marcdown/5282955/raw/2a52cfd92f112f2a52669420c82c1bb1efd15d2a/JSONKit.podspec
 
 SPEC CHECKSUMS:
+  BlocksKit: b29ee3f28ba06a09f5c64987314ce5b75b2c3962
   Dropbox-iOS-SDK: 1a8850056b1bd54bc023bd268e1e6f4d6ee9d7a5
   Evernote-SDK-iOS: 9294970e3c28083d7e7aa3c2c882c0c93ef526e7
   Facebook-iOS-SDK: ef402579aeb30cf0c4a6370fb0a927e3dc3059e5
@@ -167,6 +184,7 @@ SPEC CHECKSUMS:
   GTMHTTPFetcher: b0af09f18ec87e7a5edeffcc8cb6449fdbf0e83f
   JazzHands: 429bb5619e9ba9dfdab1d9c272193755740921a0
   JSONKit: 98c50800be324836e4443f6d22ff1324caffa608
+  libffi: 64ef39353e747bb2b25e1026afd96a157bf9231c
   MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
   objectiveflickr: c98b7590cee96dbd4a2d2529f6910fea8e566164
   OpenInChrome: 4990ae561b1c8e38caa6fc6c346f4565f6c37bfb
@@ -177,4 +195,4 @@ SPEC CHECKSUMS:
   SSToolkit: 689acaedac79c2079e492e528a55bcb5db9d98c4
   TMCache: 4b05e1b124d9f7e8d449640e059cff4cda17ed27
 
-COCOAPODS: 0.27.1
+COCOAPODS: 0.28.0

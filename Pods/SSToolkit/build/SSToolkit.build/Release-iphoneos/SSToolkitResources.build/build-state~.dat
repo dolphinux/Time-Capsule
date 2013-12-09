@@ -1,0 +1,1277 @@
+TSSToolkitResources
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+cCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+cCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+cTouch /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/./SSToolkitResources.bundle
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png
+c00000000528F10C60000000000000100
+t1385107654
+s256
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png
+c00000000528F10C6000000000000015E
+t1385107654
+s350
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png
+c00000000528F10C6000000000000036F
+t1385107654
+s879
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png
+c00000000528F10C600000000000004E0
+t1385107654
+s1248
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png
+c00000000528F10C6000000000000027C
+t1385107654
+s636
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png
+c00000000528F10C600000000000003C9
+t1385107654
+s969
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png
+c00000000528F10C60000000000000240
+t1385107654
+s576
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png
+c00000000528F10C60000000000000525
+t1385107654
+s1317
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png
+c00000000528F10C60000000000000248
+t1385107654
+s584
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png
+c00000000528F10C6000000000000053E
+t1385107654
+s1342
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png
+c00000000528F10C6000000000000008E
+t1385107654
+s142
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png
+c00000000528F10C600000000000000CC
+t1385107654
+s204
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png
+c00000000528F10C6000000000000008E
+t1385107654
+s142
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png
+c00000000528F10C600000000000000E7
+t1385107654
+s231
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button-mini.png
+c00000000528F10C6000000000000012C
+t1385107654
+s300
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png
+c00000000528F10C600000000000001FE
+t1385107654
+s510
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button.png
+c00000000528F10C6000000000000015F
+t1385107654
+s351
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button@2x.png
+c00000000528F10C60000000000000262
+t1385107654
+s610
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button-mini.png
+c00000000528F10C6000000000000008E
+t1385107654
+s142
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png
+c00000000528F10C600000000000000FC
+t1385107654
+s252
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button.png
+c00000000528F10C600000000000000BB
+t1385107654
+s187
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button@2x.png
+c00000000528F10C600000000000000FD
+t1385107654
+s253
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button-mini.png
+c00000000528F10C60000000000000094
+t1385107654
+s148
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png
+c00000000528F10C600000000000000ED
+t1385107654
+s237
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button.png
+c00000000528F10C600000000000000AE
+t1385107654
+s174
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button@2x.png
+c00000000528F10C60000000000000104
+t1385107654
+s260
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/gray-star.png
+c00000000528F10C60000000000000DC4
+t1385107654
+s3524
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/gray-star@2x.png
+c00000000528F10C6000000000000118E
+t1385107654
+s4494
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-check.png
+c00000000528F10C600000000000001A1
+t1385107654
+s417
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-check@2x.png
+c00000000528F10C60000000000000299
+t1385107654
+s665
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-x.png
+c00000000528F10C600000000000001BA
+t1385107654
+s442
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-x@2x.png
+c00000000528F10C60000000000000310
+t1385107654
+s784
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/orange-star.png
+c00000000528F10C60000000000000EB3
+t1385107654
+s3763
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/orange-star@2x.png
+c00000000528F10C60000000000001456
+t1385107654
+s5206
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button-mini.png
+c00000000528F10C60000000000000106
+t1385107654
+s262
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png
+c00000000528F10C6000000000000020E
+t1385107654
+s526
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button.png
+c00000000528F10C60000000000000175
+t1385107654
+s373
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button@2x.png
+c00000000528F10C600000000000002AE
+t1385107654
+s686
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button-mini.png
+c00000000528F10C60000000000000116
+t1385107654
+s278
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png
+c00000000528F10C600000000000002A4
+t1385107654
+s676
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button.png
+c00000000528F10C600000000000001A2
+t1385107654
+s418
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button@2x.png
+c00000000528F10C60000000000000317
+t1385107654
+s791
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button-mini.png
+c00000000528F10C600000000000000D2
+t1385107654
+s210
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png
+c00000000528F10C60000000000000135
+t1385107654
+s309
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button.png
+c00000000528F10C600000000000000FC
+t1385107654
+s252
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button@2x.png
+c00000000528F10C60000000000000170
+t1385107654
+s368
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+c00000000528F10C60000000000000572
+t1385107654
+s1394
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings
+c00000000528F10C60000000000000369
+t1385107654
+s873
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings
+c00000000528F10C60000000000000352
+t1385107654
+s850
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings
+c00000000528F10C60000000000000374
+t1385107654
+s884
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings
+c00000000528F10C60000000000000361
+t1385107654
+s865
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings
+c00000000528F10C60000000000000361
+t1385107654
+s865
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings
+c00000000528F10C6000000000000035C
+t1385107654
+s860
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings
+c00000000528F10C600000000000005F0
+t1385107654
+s1520
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings
+c00000000528F10C6000000000000033A
+t1385107654
+s826
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings
+c00000000528F10C60000000000000370
+t1385107654
+s880
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings
+c00000000528F10C60000000000000376
+t1385107654
+s886
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings
+c00000000528F10C6000000000000035A
+t1385107654
+s858
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings
+c00000000528F10C60000000000000361
+t1385107654
+s865
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings
+c00000000528F10C60000000000000382
+t1385107654
+s898
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings
+c00000000528F10C6000000000000036C
+t1385107654
+s876
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings
+c00000000528F10C6000000000000035A
+t1385107654
+s858
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings
+c00000000528F10C60000000000000358
+t1385107654
+s856
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle
+t1385107719
+s2210
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+t1385107719
+s1192
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+t1385107719
+s234
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+t1385107719
+s414
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+t1385107719
+s887
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+t1385107719
+s1144
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+t1385107719
+s482
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+t1385107719
+s824
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+t1385107719
+s623
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+t1385107719
+s1775
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+t1385107719
+s611
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+t1385107719
+s1623
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+t1385107719
+s183
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+t1385107719
+s340
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+t1385107719
+s182
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+t1385107719
+s346
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+t1385107719
+s466
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+t1385107719
+s871
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+t1385107719
+s575
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+t1385107719
+s1062
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+t1385107719
+s180
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+t1385107719
+s395
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+t1385107719
+s249
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+t1385107719
+s378
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+t1385107719
+s581
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+t1385107719
+s306
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+t1385107719
+s548
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+t1385107719
+s190
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+t1385107719
+s341
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+t1385107719
+s204
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+t1385107719
+s349
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+t1385107719
+s489
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+t1385107719
+s3526
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+t1385107719
+s4956
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+t1385107719
+s393
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+t1385107719
+s629
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+t1385107719
+s442
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+t1385107719
+s818
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+t1385107719
+s481
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+t1385107719
+s530
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+t1385107719
+s482
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+t1385107719
+s474
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+t1385107719
+s531
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+t1385107719
+s522
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+t1385107719
+s3704
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+t1385107719
+s5221
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+t1385107719
+s496
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+t1385107719
+s501
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+t1385107719
+s262
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+t1385107719
+s935
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+t1385107719
+s610
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+t1385107719
+s1223
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+t1385107719
+s608
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+t1385107719
+s278
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+t1385107719
+s1167
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+t1385107719
+s705
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+t1385107719
+s1371
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+t1385107719
+s275
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+t1385107719
+s394
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+t1385107719
+s330
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+t1385107719
+s456
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+t1385107719
+s597
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+t1385107719
+s515
+
+N/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+t1385107719
+s504
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese90a3e87483fb841^84b84e87483fb841^---0#1#1#--18"Check dependencies36"280F06C0-1509-4582-A75E-AA1C470B3093-
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+s406800519.445370
+e406800519.479310
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+xResources/Images/SSAddressBarTextFieldBackground.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png7e517287483fb841^edf17a87483fb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png0000000000000000^769"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png36"E4B85D57-C7CD-4B8F-BAC7-B2E1C3D4D373-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+s406800519.446402
+e406800519.481009
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+xResources/Images/SSAddressBarTextFieldBackground@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png546e7287483fb841^78807b87483fb841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png0000000000000000^781"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png36"A26581F9-DAD8-4B99-9882-9770705D95EE-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+s406800519.446567
+e406800519.477476
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+xResources/Images/SSAddressBarTextFieldReload.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.pngca6e7287483fb841^05527a87483fb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png0000000000000000^753"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png36"BE3988E5-2600-4846-86E7-3CE915321E93-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+s406800519.446951
+e406800519.480364
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+xResources/Images/SSAddressBarTextFieldReload@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.pngd0807287483fb841^1f477b87483fb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png0000000000000000^765"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png36"99847150-C3CE-431B-A012-ABDC7123DD0C-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+s406800519.447228
+e406800519.476947
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+xResources/Images/SSAddressBarTextFieldStop.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png6c977287483fb841^aa477a87483fb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png0000000000000000^745"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png36"23539C83-9A2C-4433-B4F4-0AF45011ACD9-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+s406800519.447537
+e406800519.477354
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+xResources/Images/SSAddressBarTextFieldStop@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.pngbbb77287483fb841^d34d7a87483fb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png0000000000000000^757"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png36"9D18F229-7FFE-4650-90B0-F3918FAB64EB-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+s406800519.448189
+e406800519.481153
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+xResources/Images/UISegmentBarButton.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png7dcd7287483fb841^077b8387483fb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png0000000000000000^717"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png36"12955994-CD77-4C7B-B7C4-0AEC8A52CD48-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+s406800519.448744
+e406800519.481092
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+xResources/Images/UISegmentBarButton@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png5af07287483fb841^e86a8387483fb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png0000000000000000^729"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png36"DB2998A4-EF32-45F3-9D6F-E0B0142AC2A9-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+s406800519.477112
+e406800519.511166
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+xResources/Images/UISegmentBarButtonHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png0d507a87483fb841^96ce8387483fb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png0000000000000000^761"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png36"588A399A-41DF-448B-BF3D-8A9D23D8271B-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+s406800519.477909
+e406800519.515685
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+xResources/Images/UISegmentBarButtonHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png7b697a87483fb841^babd8487483fb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png0000000000000000^773"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png36"EF2EF01E-4F7D-4064-95B5-0DFCF46F4532-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+s406800519.478336
+e406800519.513153
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+xResources/Images/UISegmentBarDivider.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png5e837a87483fb841^14e88387483fb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png0000000000000000^721"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png36"D1A10B7D-B5BF-4902-85F1-D102B4969B6D-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+s406800519.479557
+e406800519.513078
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+xResources/Images/UISegmentBarDivider@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.pnge0d57a87483fb841^a8e18387483fb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png0000000000000000^733"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png36"63377E87-78F8-4031-AA2C-6097EFAD6C2F-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+s406800519.480553
+e406800519.513678
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+xResources/Images/UISegmentBarDividerHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.pngd1587b87483fb841^ac738487483fb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png0000000000000000^765"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png36"A50EE69C-CBFD-4228-85F3-F24075EAB61E-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+s406800519.481572
+e406800519.515410
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+xResources/Images/UISegmentBarDividerHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.pngd3677b87483fb841^38868487483fb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png0000000000000000^777"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png36"57AB76B1-CF52-4B4A-9510-DD39FED1DA98-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+s406800519.481936
+e406800519.517687
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+xResources/Images/action-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png15707b87483fb841^a9c28b87483fb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button-mini.png0000000000000000^717"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button-mini.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png36"59613A1B-88BC-4ECC-AA6C-68BEE59618DF-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+s406800519.483157
+e406800519.525000
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+xResources/Images/action-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png55c27b87483fb841^7bdc8b87483fb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png0000000000000000^729"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png36"A7E34FC1-B24B-4F56-BB1D-AE46F6F07B55-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+s406800519.511386
+e406800519.545308
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+xResources/Images/action-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png54fd8287483fb841^60ea8b87483fb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button.png0000000000000000^697"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png36"1EE6DFD1-E6E5-4C31-9F3C-E08EF0226887-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+s406800519.513573
+e406800519.547145
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+xResources/Images/action-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png2e8d8387483fb841^e1298c87483fb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button@2x.png0000000000000000^709"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/action-button@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png36"17FE1CF9-5597-4357-B716-7E5440BD8780-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+s406800519.514375
+e406800519.544708
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+xResources/Images/back-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png53048487483fb841^60e68b87483fb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button-mini.png0000000000000000^709"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button-mini.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png36"3CB67647-0E73-4D9C-811D-7BA12AA743DE-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+s406800519.514677
+e406800519.546096
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+xResources/Images/back-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png3c158487483fb841^e9ed8b87483fb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png0000000000000000^721"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png36"D5F7E203-4A86-4696-9D59-FF09391654BC-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+s406800519.516078
+e406800519.547574
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+xResources/Images/back-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.pngc6698487483fb841^ee218d87483fb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button.png0000000000000000^689"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png36"5F7DEB7F-1FDC-48F0-8D50-6A36EFFDAA64-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+s406800519.517003
+e406800519.549926
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+xResources/Images/back-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png4a998487483fb841^02bb8e87483fb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button@2x.png0000000000000000^701"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/back-button@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png36"E3A5CFCC-A804-4309-9BDC-E2E41D0A7DA2-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+s406800519.517805
+e406800519.552144
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+xResources/Images/forward-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png9be78487483fb841^807d9487483fb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button-mini.png0000000000000000^721"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button-mini.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png36"AD88AB21-3700-4461-8036-2CBFBCBADEB2-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+s406800519.525380
+e406800519.566979
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+xResources/Images/forward-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png9f938687483fb841^519f9487483fb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png0000000000000000^733"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png36"B2E04C9C-3AF7-4F77-A7F4-4DA26D210B09-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+s406800519.544879
+e406800519.578728
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+xResources/Images/forward-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.pngef8f8b87483fb841^1fd99487483fb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button.png0000000000000000^701"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png36"56820F22-614B-4F35-A5B6-495577D496A4-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+s406800519.546882
+e406800519.578438
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+xResources/Images/forward-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png24458c87483fb841^cea99487483fb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button@2x.png0000000000000000^713"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/forward-button@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png36"89195817-6779-4A54-962A-E110557CA2CC-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+s406800519.326197
+e406800519.446259
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+xResources/Images/gray-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.pngfb945387483fb841^c85f7287483fb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/gray-star.png0000000000000000^681"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/gray-star.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png36"D0067261-93F4-4B4C-BADB-AB1B303632F5-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+s406800519.326465
+e406800519.446358
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+xResources/Images/gray-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png05a65387483fb841^13817287483fb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/gray-star@2x.png0000000000000000^693"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/gray-star@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png36"B8B311CC-F632-4E82-B88E-3495AE448651-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+s406800519.324791
+e406800519.445151
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+xResources/Images/hud-check.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png624b5387483fb841^53067287483fb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-check.png0000000000000000^681"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-check.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png36"991C55B4-5D04-4EA8-A813-CDAE30A43F38-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+s406800519.325069
+e406800519.446253
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+xResources/Images/hud-check@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png1d5b5387483fb841^c9577287483fb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-check@2x.png0000000000000000^693"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-check@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png36"CDCF27E4-5E63-4592-BF1D-4D8562CB8F5F-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+s406800519.325297
+e406800519.445443
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+xResources/Images/hud-x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.pngaf5c5387483fb841^d4497287483fb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-x.png0000000000000000^665"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png36"E69C92A3-1015-4621-A9AA-09DC957FB125-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+s406800519.325610
+e406800519.446433
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+xResources/Images/hud-x@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.pngaa805387483fb841^e9637287483fb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-x@2x.png0000000000000000^677"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/hud-x@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png36"857943CD-4B8B-4949-89AD-B0EB66CBAA2C-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+s406800519.327479
+e406800519.446411
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+xResources/Images/orange-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.pnged495487483fb841^df177387483fb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/orange-star.png0000000000000000^689"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/orange-star.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png36"62626827-C189-4932-A328-26098CB6E4C5-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+s406800519.330273
+e406800519.447177
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+xResources/Images/orange-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.pngada55487483fb841^3e257387483fb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/orange-star@2x.png0000000000000000^701"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/orange-star@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png36"DD2F5F33-CD5F-4BFD-A34E-9AAAC9B3C35F-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+s406800519.548154
+e406800519.580752
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+xResources/Images/reload-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.pnge6798c87483fb841^df379687483fb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button-mini.png0000000000000000^717"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button-mini.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png36"87E3F8CC-2D85-40E4-9565-9AD83C12F954-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+s406800519.548305
+e406800519.580285
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+xResources/Images/reload-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png2e758c87483fb841^132c9687483fb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png0000000000000000^729"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png36"FE8569B5-A9B7-4712-AFC9-713413F771BB-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+s406800519.550192
+e406800519.582573
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+xResources/Images/reload-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png39288d87483fb841^79589887483fb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button.png0000000000000000^697"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png36"9685C3C3-DA71-495A-899D-F010E8595840-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+s406800519.550476
+e406800519.584000
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+xResources/Images/reload-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.pngb1fd8c87483fb841^5d189987483fb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button@2x.png0000000000000000^709"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/reload-button@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png36"7A9F09B8-8B0B-4B86-96EB-026CD791260B-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+s406800519.553399
+e406800519.585804
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+xResources/Images/safari-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png00c88d87483fb841^de3b9a87483fb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button-mini.png0000000000000000^717"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button-mini.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png36"398EDA85-F4C0-4CB2-90FC-64EC7A39446A-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+s406800519.567203
+e406800519.610988
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+xResources/Images/safari-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.pngfe5f9187483fb841^5d899c87483fb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png0000000000000000^729"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png36"7DE18F82-099B-4E6C-B75B-E50C93613281-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+s406800519.578684
+e406800519.614644
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+xResources/Images/safari-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png2b6a9487483fb841^39479d87483fb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button.png0000000000000000^697"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png36"C56E8912-8463-459C-896B-CB3B1DA6BAB2-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+s406800519.579726
+e406800519.617301
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+xResources/Images/safari-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png78d09487483fb841^c4079e87483fb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button@2x.png0000000000000000^709"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/safari-button@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png36"0EF1C6EF-7B3F-4AA5-93E8-78B43E34712A-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+s406800519.580421
+e406800519.614497
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+xResources/Images/stop-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.pngddd09487483fb841^a6609d87483fb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button-mini.png0000000000000000^709"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button-mini.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png36"4F97629E-CBAB-434B-9365-D1A50AF8F249-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+s406800519.581357
+e406800519.614329
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+xResources/Images/stop-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png9a409587483fb841^b35d9d87483fb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png0000000000000000^721"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png36"5DFC30A3-B899-4D4E-BF01-814B8B19ADDD-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+s406800519.583586
+e406800519.617001
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+xResources/Images/stop-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.pngfdfa9587483fb841^f5f49d87483fb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button.png0000000000000000^689"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png36"EE4078E4-F628-421A-ACFA-98D071006884-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyPNGFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+s406800519.584379
+e406800519.617629
+r1
+xCopyPNGFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+xResources/Images/stop-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.pngc5aa9587483fb841^431d9e87483fb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button@2x.png0000000000000000^701"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/Images/stop-button@2x.png /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png36"300E4B84-34B8-4851-BBAA-0E811D8171FB-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+s406800519.318481
+e406800519.322198
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+xResources/de.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/de.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings25955187483fb841^e6925287483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj -- Resources/de.lproj/SSToolkit.strings36"D95E17E3-809A-4E46-BCF1-6DDF54FF52E8-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+s406800519.318290
+e406800519.322332
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+xResources/en.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/en.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.stringsb98a5187483fb841^94a15287483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj -- Resources/en.lproj/SSToolkit.strings36"897EEBD2-2884-40A9-9AF0-4137E2A9D459-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+s406800519.318707
+e406800519.322222
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+xResources/es.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/es.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings29af5187483fb841^18975287483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj -- Resources/es.lproj/SSToolkit.strings36"3E3ABF22-E799-4F09-9CAC-0EBBBBE07AC3-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+s406800519.319059
+e406800519.322467
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+xResources/fr.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/fr.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings8cbb5187483fb841^20b45287483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj -- Resources/fr.lproj/SSToolkit.strings36"34F8F80D-CAEC-45AA-AD00-55211C84754E-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+s406800519.319184
+e406800519.322224
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+xResources/id.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/id.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings68cb5187483fb841^7c9b5287483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj -- Resources/id.lproj/SSToolkit.strings36"61CD818A-34A9-4B03-872D-B2D74100F286-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+s406800519.319499
+e406800519.322132
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+xResources/it.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/it.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings11e35187483fb841^6e8b5287483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj -- Resources/it.lproj/SSToolkit.strings36"131E8910-7E08-40C4-8FB3-6F9142EF03B3-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+s406800519.319794
+e406800519.322426
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+xResources/ja.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ja.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.stringsb2f45187483fb841^4fad5287483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj -- Resources/ja.lproj/SSToolkit.strings36"8F2FA44B-256F-4CD9-9338-57F019C05692-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+s406800519.319926
+e406800519.322072
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+xResources/ko.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ko.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.stringse4f45187483fb841^fa7a5287483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj -- Resources/ko.lproj/SSToolkit.strings36"E3236458-F008-4BAD-98EB-751AEE1B63E2-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+s406800519.322445
+e406800519.324171
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+xResources/ms.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ms.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings73a15287483fb841^7a005387483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj -- Resources/ms.lproj/SSToolkit.strings36"7E3C5A5A-EEBF-4385-846D-A39BC20F2879-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+s406800519.322794
+e406800519.324094
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+xResources/nl.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/nl.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings5bb25287483fb841^01145387483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj -- Resources/nl.lproj/SSToolkit.strings36"A3F03643-CD19-4FA5-BEB9-DF5E23979EB7-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+s406800519.323186
+e406800519.324657
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+xResources/pt.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/pt.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.stringsf2cd5287483fb841^0d345387483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj -- Resources/pt.lproj/SSToolkit.strings36"E46540F0-B290-49FB-A2B2-7F994B907456-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+s406800519.323021
+e406800519.324318
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+xResources/pt_PT.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy Resources/pt_PT.lproj/SSToolkit.strings111"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings26c65287483fb841^8e225387483fb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings0000000000000000^647"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj -- Resources/pt_PT.lproj/SSToolkit.strings36"292C0849-2A3A-4BC0-A157-A508955522A0-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+s406800519.323437
+e406800519.324863
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+xResources/ru.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ru.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings6ee05287483fb841^0b445387483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj -- Resources/ru.lproj/SSToolkit.strings36"A0A4804A-0EF4-4427-8953-8CCE1D3FA1B5-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+s406800519.323652
+e406800519.325482
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+xResources/sv.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/sv.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings20ee5287483fb841^e8665387483fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings0000000000000000^635"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj -- Resources/sv.lproj/SSToolkit.strings36"85EF2DB6-1D69-4B2E-9D43-B2CF9551965B-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+s406800519.324085
+e406800519.327318
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+xResources/zh_Hans.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hans.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.stringsd3165387483fb841^0d8c5487483fb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings0000000000000000^655"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj -- Resources/zh_Hans.lproj/SSToolkit.strings36"492C6E4A-75E5-4DB7-83A9-424FC6BB7FC6-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CCopyStringsFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+s406800519.324541
+e406800519.327310
+r1
+xCopyStringsFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+xResources/zh_Hant.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hant.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings982f5387483fb841^b8745487483fb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings0000000000000000^655"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj -- Resources/zh_Hant.lproj/SSToolkit.strings36"31D12463-6B14-4A96-9077-8DE48913A493-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CProcessInfoPlistFile /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+s406800519.312300
+e406800519.317766
+r1
+xProcessInfoPlistFile
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+x/Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Process /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist97"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plistc4d25087483fb841^3e595187483fb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist0000000000000000^678"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist    cd /Users/dolphinux/Project/timecapsule/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/dolphinux/Project/depot_tools"    builtin-infoPlistUtility /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist36"77707658-6F2F-4C53-9FB2-01D45690664C-
+b5E33729A-4601-4B6F-8819-BDE95B0C28DD
+
+CTouch /Users/dolphinux/Project/timecapsule/Pods/SSToolkit/./SSToolkitResources.bundle
+r0
+
