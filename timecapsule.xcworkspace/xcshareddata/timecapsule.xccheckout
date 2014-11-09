@@ -12,22 +12,34 @@
 	<dict>
 		<key>4760A340-E78B-4CCB-80D2-67699B8EDE33</key>
 		<string>https://github.com/dolphinux/Time-Capsule.git</string>
+		<key>518F463A5A47FF7D7C0E6A87001357923513027D</key>
+		<string>https://github.com/dolphinux/Time-Capsule.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>timecapsule.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4760A340-E78B-4CCB-80D2-67699B8EDE33</key>
+		<string>../../timecapsule</string>
+		<key>518F463A5A47FF7D7C0E6A87001357923513027D</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/dolphinux/Time-Capsule.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>4760A340-E78B-4CCB-80D2-67699B8EDE33</string>
+	<string>518F463A5A47FF7D7C0E6A87001357923513027D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>518F463A5A47FF7D7C0E6A87001357923513027D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Time-Capsule</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
